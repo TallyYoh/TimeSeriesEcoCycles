@@ -2,12 +2,14 @@
 ## Times Series Methods for the Analysis of Soundscapes and Other Cyclical Ecological Data 
 [doi]
 
-#### A framework for analysing cyclical, ecological data in R, see [xxxx] for more information 
+#### A framework for analysing cyclical, ecological data in R
 
 Yoh, N., Haley, C.L., and Burivalova, Z. (2024). Times Series Methods for the Analysis of Soundscapes and Other Cyclical Ecological Data, Methods in Ecology and Evolution [Accepted] 
 
 Please find two analysis scripts which aim to characterize and analyze cyclical ecological responses using time series methods. Our framework is based on three approaches: spectral analysis, magnitude squared coherence, and principal component analysis. 
-We provide examples of how to implement our framework using (i) a simulated example and (ii) real world data in the form of soundscape data from tropical forests in Gabon. Please reference the manuscript for more information.
+We provide examples of how to implement our framework using (i) a simulated example and (ii) real world data in the form of soundscape data from tropical forests in Gabon. Data is available for download at https://doi.org/10.5061/dryad.xpnvx0kn6 
+
+Please reference the manuscript for more information.
 
 
 #### Funding
