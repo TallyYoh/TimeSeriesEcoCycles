@@ -1,6 +1,6 @@
 
 ## Times Series Methods for the Analysis of Soundscapes and Other Cyclical Ecological Data 
-[doi]
+[![DOI](https://zenodo.org/badge/800980602.svg)](https://zenodo.org/doi/10.5281/zenodo.11198177)
 
 #### A framework for analysing cyclical, ecological data in R
 
